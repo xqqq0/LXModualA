@@ -1,0 +1,16 @@
+PODS:
+  - LXModuleCode_A (0.1.0)
+
+DEPENDENCIES:
+  - LXModuleCode_A (from `../`)
+
+EXTERNAL SOURCES:
+  LXModuleCode_A:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LXModuleCode_A: 96a58722e53566344fa0d995145baa2810652b70
+
+PODFILE CHECKSUM: d0326cad598e498bdfd07a37f7e4ddc17b0f9caa
+
+COCOAPODS: 1.9.3
